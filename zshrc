@@ -43,3 +43,4 @@ export PATH="$PATH:$HOME/.rvm/bin"
 
 export NVM_DIR="$HOME/.nvm"
   . "/usr/local/opt/nvm/nvm.sh"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"

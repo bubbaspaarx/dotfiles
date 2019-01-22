@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = edd_sparks@hotmail.com
-	name = Edward Sparks
+	name = Ed Sparks
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
