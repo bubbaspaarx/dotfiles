@@ -1,15 +1,30 @@
 {
-  "installed_packages":
-  [
-    "A File Icon",
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1337 Color Scheme",
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Auto Close HTML Tags",
+		"Babel",
+		"Babel Snippets",
+		"Color Highlighter",
+		"DictionaryAutoComplete",
+		"Edit Preferences",
+		"Emacs Tabstops",
+		"Emmet",
+		"ERB Snippets",
+		"ESLint",
+		"Git",
+		"JsPrettier",
+		"Package Control",
+		"Pretty JSON",
+		"React IDE",
+		"SCSS"
+	]
 }
